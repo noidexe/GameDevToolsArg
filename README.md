@@ -53,7 +53,6 @@ Es usado tanto en desarrollos del exterior como [The Messenger](https://themesse
 <img src="https://user-images.githubusercontent.com/526829/122314297-52b40580-ceee-11eb-8a49-fe08f5957998.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122314348-695a5c80-ceee-11eb-9b86-4d6df4c94314.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122314359-6cede380-ceee-11eb-997d-6b7272dc4e45.png" width=300px>
 
 
-
 ## Godot Engine
 - **Tipo de herramienta:** Motor
 - **Página Web:** https://godotengine.org/
@@ -70,7 +69,22 @@ Features:
 
 <img src="https://user-images.githubusercontent.com/526829/122309654-0c0ddd80-cee5-11eb-8417-6565d534531f.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122309660-0e703780-cee5-11eb-976b-89776c922cdf.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122309696-1e881700-cee5-11eb-9d92-aca58c50c22f.png" width=300px>
 
+## Ogre3d
+- **Tipo de herramienta:** Motor de Rendering
+- **Página Web:** https://www.ogre3d.org/
+- **Repositorio:** https://github.com/OGRECave
+- **Descripción:**
+Motor de rendering de código abierto usado en proyectos como juegos, simuladores, software educacional, arte interactivo, visualizacion científica y otros.
+Features:
+-- Animacion
+-- Materiales/Shaders
+-- Soporte multiplataforma
+-- Open Source
+- **Por qué lo incluimos:** Fue fundado por el marplatense Matias Goldberg.
+- **Capturas:**
+
+<img src="https://user-images.githubusercontent.com/526829/122474261-5ea8d180-cf99-11eb-8435-767eae9aa012.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122474282-65cfdf80-cf99-11eb-82aa-74951afd6997.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122474318-6ec0b100-cf99-11eb-8f5d-d293f611ebaf.png" width=300px> 
+
 ----
 Proyectos a agregar:
 - https://azagaya.itch.io/laigter
-- https://www.ogre3d.org/
