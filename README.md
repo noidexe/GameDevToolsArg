@@ -14,7 +14,7 @@ Cada entrada debe contener los siguientes campos:
 - "Tipo de herramienta:" (motor, content creation tool, etc.)
 - "Pagina Web:"
 - "Repositorio" (en caso de corresponder)
-- "Descripcion:" (breve explicación de su finalidad, se puede incluir un listado de features)
+- "Descripcion:" (breve explicación de su finalidad, se puede incluir un listado de Características)
 - "Por qué lo incluimos:" (justificar por qué se incluyó en ésta lista. Ej: el proyecto fue fundado por argentinos, la mayoria de los desarrolladores son argentinos, etc)
 - "Capturas:" (puede omitirse en caso de ser herramientas de consola no interactivas)
 
@@ -59,7 +59,7 @@ Es usado tanto en desarrollos del exterior como [The Messenger](https://themesse
 - **Repositorio:** https://github.com/godotengine/godot
 - **Descripción:**
 Motor de desarrollo de videojuegos 2D y 3D con editor visual, sistema de nodos y soporte para varios lenguajes de programación
-Features:
+Características:
 -- Render 2D y 3D independientes
 -- Sistema de nodos y escenas anidadas
 -- Editor y exports multiplataforma
@@ -75,7 +75,7 @@ Features:
 - **Repositorio:** https://github.com/OGRECave
 - **Descripción:**
 Motor de rendering de código abierto usado en proyectos como juegos, simuladores, software educacional, arte interactivo, visualizacion científica y otros.
-Features:
+Características:
 -- Animacion
 -- Materiales/Shaders
 -- Soporte multiplataforma
