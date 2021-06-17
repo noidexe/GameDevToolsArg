@@ -40,14 +40,14 @@ Herramienta para la creación de assets pixelart. Permite crear ilustraciónes, 
 Cocos2d es un framework de desarrollo que permite crear juegos y aplicaciones multiplataforma.
 - **Por qué lo incluimos:** Tanto la primera versión en lenguaje python como la segunda en obj-C fueron creadas por el Cordobés Ricardo Quesada, quien ademas trabajo varios años para Chukong Technologies, creadores de Cocos2D-x, un fork del proyecto original.
 
-## Deflemask
-- **Tipo de herramienta:** Creación de contenido. Música. Chiuptune Tracker
+## DefleMask
+- **Tipo de herramienta:** Creación de contenido. Música. Chiptune Tracker
 - **Página Web:** https://www.deflemask.com/
 - **Descripción:**
 DefleMask is a chiptune music tracker multiplataforma. Permite crear música para varios chips de sonido de consolas retro como SEGA Genesis, Game Boy, Commodore 64 entre otras.
 La musica se puede exportar tanto a hardware real como a formatos actuales como .wav
 Es usado tanto en desarrollos del exterior como [The Messenger](https://themessengergame.com/) así como por artistas locales como [Toni Leys](https://soundcloud.com/tonileys)
-- **Por qué lo incluimos:** Tres de sus cuatro desarrolladores(Leonardo y Francisco Demartino, Darío Génova) son Argentinos.
+- **Por qué lo incluimos:** Tres de sus cuatro desarrolladores (Leonardo y Francisco Demartino, Darío Génova) son Argentinos.
 - **Capturas:**
 
 <img src="https://user-images.githubusercontent.com/526829/122314297-52b40580-ceee-11eb-8a49-fe08f5957998.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122314348-695a5c80-ceee-11eb-9b86-4d6df4c94314.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122314359-6cede380-ceee-11eb-997d-6b7272dc4e45.png" width=300px>
