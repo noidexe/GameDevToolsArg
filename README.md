@@ -24,7 +24,7 @@ Pueden agregar una seccion "Caracteristicas" con bulletpoints con informacion ma
 - **Por qué lo incluimos:** Justificar por qué se incluyó en ésta lista. Ej: el proyecto fue fundado por argentinos, la mayoria de los desarrolladores son argentinos, etc.
 - **Capturas:** (si corresponde)
 
-<img src="https://example.org/image.ext" width=300px> <img src="https://example.org/image.ext" width=300px> <img src="https://example.org/image.ext" width=300px> 
+<img src="https://user-images.githubusercontent.com/526829/122480530-61a8bf80-cfa3-11eb-9abf-343240170551.PNG" width=300px> <img src="https://user-images.githubusercontent.com/526829/122480530-61a8bf80-cfa3-11eb-9abf-343240170551.PNG" width=300px> <img src="https://user-images.githubusercontent.com/526829/122480530-61a8bf80-cfa3-11eb-9abf-343240170551.PNG" width=300px>
 
 
 ----
