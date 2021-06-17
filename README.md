@@ -9,14 +9,23 @@ Cada entrada de la lista incluye un campo "Por qué lo incluimos:" donde se dan 
 ## ¿Como colaborar?
 De momento se puede colaborar simplemente editando este archivo y generando un pull request. 
 
-Cada entrada debe contener los siguientes campos:
-- "Nombre de la herramienta"
-- "Tipo de herramienta:" (motor, content creation tool, etc.)
-- "Pagina Web:"
-- "Repositorio" (en caso de corresponder)
-- "Descripcion:" (breve explicación de su finalidad, se puede incluir un listado de Características)
-- "Por qué lo incluimos:" (justificar por qué se incluyó en ésta lista. Ej: el proyecto fue fundado por argentinos, la mayoria de los desarrolladores son argentinos, etc)
-- "Capturas:" (puede omitirse en caso de ser herramientas de consola no interactivas)
+He aqui un ejemplo que pueden tomar como plantilla:
+## Nombre de la Herramienta
+- **Tipo de herramienta:** Motor. Edicion de animación, etc.
+- **Página Web:** https://www.example.org/
+- **Repositorio:** https://link/al/repo/ (si corresponde)
+- **Descripción:**
+Escribir aca una breve descripción de la finalidad de la herramienta. Se puede destacar si se uso en algun juego o proyecto importante. Evitar ser muy técnicos ya que la idea es que lo pueda leer gente de otros ámbitos.
+Pueden agregar una seccion "Caracteristicas" con bulletpoints con informacion mas técnica.
+- **Características:** (opcional)
+    - Ejemplo de caracteristica 1
+    - Ejemplo de caracteristica 2
+    - etc
+- **Por qué lo incluimos:** Justificar por qué se incluyó en ésta lista. Ej: el proyecto fue fundado por argentinos, la mayoria de los desarrolladores son argentinos, etc.
+- **Capturas:** (si corresponde)
+
+<img src="https://example.org/image.ext" width=300px> <img src="https://example.org/image.ext" width=300px> <img src="https://example.org/image.ext" width=300px> 
+
 
 ----
 # Listado alfabético
@@ -25,7 +34,7 @@ Cada entrada debe contener los siguientes campos:
 - **Tipo de herramienta:** Creación de contenido. Ilustración y Animación. Pixelart
 - **Página Web:** https://www.aseprite.org/
 - **Repositorio:** https://github.com/aseprite/aseprite/
-- **Descripción":**
+- **Descripción:**
 Herramienta para la creación de assets pixelart. Permite crear ilustraciónes, sprites animadors y tilesets entre otras cosas. Una de las mas usadas mundialmente para la creación de arte de este tipo.
 - **Por qué lo incluimos:** El estudio que lo desarrolla esta conformado por tres Argentinos: David, Gaspar y Martín Capello.
 - **Capturas:**
@@ -36,7 +45,7 @@ Herramienta para la creación de assets pixelart. Permite crear ilustraciónes, 
 - **Tipo de herramienta:** Framework
 - **Página Web:** https://www.cocos.com
 - **Repositorio:** https://github.com/aseprite/aseprite/
-- **Descripción":**
+- **Descripción:**
 Cocos2d es un framework de desarrollo que permite crear juegos y aplicaciones multiplataforma.
 - **Por qué lo incluimos:** Tanto la primera versión en lenguaje python como la segunda en obj-C fueron creadas por el Cordobés Ricardo Quesada, quien ademas trabajo varios años para Chukong Technologies, creadores de Cocos2D-x, un fork del proyecto original.
 
@@ -59,11 +68,11 @@ Es usado tanto en desarrollos del exterior como [The Messenger](https://themesse
 - **Repositorio:** https://github.com/godotengine/godot
 - **Descripción:**
 Motor de desarrollo de videojuegos 2D y 3D con editor visual, sistema de nodos y soporte para varios lenguajes de programación
-Características:
--- Render 2D y 3D independientes
--- Sistema de nodos y escenas anidadas
--- Editor y exports multiplataforma
--- Open Source
+- **Características:**
+    - Render 2D y 3D independientes
+    - Sistema de nodos y escenas anidadas
+    - Editor y exports multiplataforma
+    - Open Source
 - **Por qué lo incluimos:** Fue fundado por dos Argentinos (Juan Linietsky y Ariel Manzur) siendo el primero el actual(2021) Lead Developer
 - **Capturas:**
 
@@ -75,11 +84,11 @@ Características:
 - **Repositorio:** https://github.com/OGRECave
 - **Descripción:**
 Motor de rendering de código abierto usado en proyectos como juegos, simuladores, software educacional, arte interactivo, visualizacion científica y otros.
-Características:
--- Animacion
--- Materiales/Shaders
--- Soporte multiplataforma
--- Open Source
+- **Características:**
+    - Animacion
+    - Materiales/Shaders
+    - Soporte multiplataforma
+    - Open Source
 - **Por qué lo incluimos:** Fue fundado por el marplatense Matias Goldberg.
 - **Capturas:**
 
