@@ -69,3 +69,8 @@ Features:
 - **Capturas:**
 
 <img src="https://user-images.githubusercontent.com/526829/122309654-0c0ddd80-cee5-11eb-8417-6565d534531f.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122309660-0e703780-cee5-11eb-976b-89776c922cdf.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122309696-1e881700-cee5-11eb-9d92-aca58c50c22f.png" width=300px>
+
+----
+Proyectos a agregar:
+- https://azagaya.itch.io/laigter
+- https://www.ogre3d.org/
