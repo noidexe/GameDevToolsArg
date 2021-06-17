@@ -67,7 +67,7 @@ Es usado tanto en desarrollos del exterior como [The Messenger](https://themesse
 - **Página Web:** https://godotengine.org/
 - **Repositorio:** https://github.com/godotengine/godot
 - **Descripción:**
-Motor de desarrollo de videojuegos 2D y 3D con editor visual, sistema de nodos y soporte para varios lenguajes de programación
+Motor de desarrollo de videojuegos 2D y 3D con editor visual, sistema de nodos y soporte para varios lenguajes de programación. Fue uno de los adjudicados del programa MegaGrant de Epic Games que ofrece subsidios de hasta 500.000 dolares a proyectos de código abierto vinculados a la industria.
 - **Características:**
     - Render 2D y 3D independientes
     - Sistema de nodos y escenas anidadas
@@ -77,6 +77,22 @@ Motor de desarrollo de videojuegos 2D y 3D con editor visual, sistema de nodos y
 - **Capturas:**
 
 <img src="https://user-images.githubusercontent.com/526829/122309654-0c0ddd80-cee5-11eb-8417-6565d534531f.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122309660-0e703780-cee5-11eb-976b-89776c922cdf.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122309696-1e881700-cee5-11eb-9d92-aca58c50c22f.png" width=300px>
+
+## Laigter
+- **Tipo de herramienta:** Creación de texturas
+- **Página Web:** https://azagaya.itch.io/laigter
+- **Repositorio:** https://github.com/azagaya/laigter
+- **Descripción:**
+Herramienta para crear texturas que permiten agregar iluminación dinámica (efecto 3D) a juegos en dos dimensiones. Fue uno de los adjudicados del programa MegaGrant de Epic Games que ofrece subsidios de hasta 500.000 dolares a proyectos de código abierto vinculados a la industria.
+- **Características:** 
+    - Generación de Normal, Specullar, Parallax y Ambient Occlusion Maps
+    - Disponible para Windows, Mac y Linux
+    - Disponible en varios idiomas
+- **Por qué lo incluimos:** Desarrollado por "Azagaya", oriundo de Neuquen.
+- **Capturas:** 
+
+<img src="https://user-images.githubusercontent.com/46932830/90258904-8e3df900-de1f-11ea-8fc0-5b903b17d5c7.png" width=300px> <img src="https://user-images.githubusercontent.com/46932830/90258716-51720200-de1f-11ea-900b-4511ec2b608b.png" width=300px> <img src="https://user-images.githubusercontent.com/46932830/90258795-6babe000-de1f-11ea-9833-5cb57255b21f.png" width=300px> 
+
 
 ## Ogre3d
 - **Tipo de herramienta:** Motor de Rendering
@@ -96,4 +112,4 @@ Motor de rendering de código abierto usado en proyectos como juegos, simuladore
 
 ----
 Proyectos a agregar:
-- https://azagaya.itch.io/laigter
+
