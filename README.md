@@ -32,6 +32,14 @@ Herramienta para la creación de assets pixelart. Permite crear ilustraciónes, 
 
 <img src="https://www.aseprite.org/assets/images/layers.gif" width=300px> <img src="https://www.aseprite.org/assets/images/rotsprite.gif" width=300px> <img src="https://www.aseprite.org/assets/images/frames.gif" width=300px>
 
+## Cocos2d
+- **Tipo de herramienta:** Framework
+- **Página Web:** https://www.cocos.com
+- **Repositorio:** https://github.com/aseprite/aseprite/
+- **Descripción":**
+Cocos2d es un framework de desarrollo que permite crear juegos y aplicaciones multiplataforma.
+- **Por qué lo incluimos:** Tanto la primera versión en lenguaje python como la segunda en obj-C fueron creadas por el Cordobés Ricardo Quesada, quien ademas trabajo varios años para Chukong Technologies, creadores de Cocos2D-x, un fork del proyecto original.
+
 ## Deflemask
 - **Tipo de herramienta:** Creación de contenido. Música. Chiuptune Tracker
 - **Página Web:** https://www.deflemask.com/
