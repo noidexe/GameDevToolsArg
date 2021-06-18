@@ -110,6 +110,26 @@ Motor de rendering de código abierto usado en proyectos como juegos, simuladore
 
 <img src="https://user-images.githubusercontent.com/526829/122474261-5ea8d180-cf99-11eb-8435-767eae9aa012.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122474282-65cfdf80-cf99-11eb-82aa-74951afd6997.png" width=300px> <img src="https://user-images.githubusercontent.com/526829/122474318-6ec0b100-cf99-11eb-8f5d-d293f611ebaf.png" width=300px> 
 
-----
-Proyectos a agregar:
+## Pilas Engine
+- **Tipo de herramienta:** Motor. Herramienta Educativa.
+- **Página Web:** https://pilas-engine.com.ar/
+- **Repositorio:** https://github.com/pilas-engine/pilas-engine/
+- **Descripción:**
+_"Pilas Engine es una herramienta para construir videojuegos de manera sencilla y divertida.
+Ideamos esta herramienta para que los jóvenes puedan descubrir y aprender a programar computadoras. Creemos que aprender a programar es espectacular, porque les permite tener el control de las computadora, inventar y desarrollar cualquier tipo de software."_ 
+- **Características:** 
+    - Está dirigido a personas que comienzan a programar videojuegos y quieren lograr resultados sorprendentes y divertidos en poco tiempo.
+    - Es multiplataforma: funciona en Windows, Gnu/Linux y Mac OS X. Cualquier persona puede utilizar el motor :).
+    - Completamente en castellano: la documentación, los tutoriales y el código programado están en tu idioma.
+    - Es interactiva: puedes programar mientras observas resultados.
+    - Incluye actores y ejemplos prediseñados: para que puedas comenzar a crear muchas variedades de juegos rápidamente.
+    - Libre y gratuita: Es software libre bajo la LGPL, así que puedes copiar, modificar y distribuir el motor libremente.
+- **Por qué lo incluimos:** Fundado por el argentino [Hugo Ruscitti](https://www.linkedin.com/in/hugoruscitti/)
+- **Capturas:**
 
+<img src="https://www.pilas-engine.com.ar/assets/editor_2.png" width=300px> <img src="https://www.pilas-engine.com.ar/assets/galeria/originales/7e0686e682bacb90.jpg" width=300px> <img src="https://www.pilas-engine.com.ar/assets/galeria/originales/2013-03-11%2020.39.39.jpg" width=300px>
+
+----
+### Proyectos a agregar:
+
+_Links a herramientas que todavia no fueron agergadas a la lista_
