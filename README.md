@@ -127,7 +127,7 @@ Ideamos esta herramienta para que los jóvenes puedan descubrir y aprender a pro
 - **Por qué lo incluimos:** Fundado por el argentino [Hugo Ruscitti](https://www.linkedin.com/in/hugoruscitti/)
 - **Capturas:**
 
-<img src="https://www.pilas-engine.com.ar/assets/editor_2.png" width=300px> <img src="https://www.pilas-engine.com.ar/assets/galeria/originales/7e0686e682bacb90.jpg" width=300px> <img src="https://www.pilas-engine.com.ar/assets/galeria/originales/2013-03-11%2020.39.39.jpg" width=300px>
+<img src="https://user-images.githubusercontent.com/526829/210159210-e5584908-8122-4928-a201-de5fe2e28286.png" width=300px>
 
 ----
 ### Proyectos a agregar:
