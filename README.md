@@ -43,8 +43,8 @@ Herramienta para la creación de assets pixelart. Permite crear ilustraciónes, 
 
 ## Cocos2d
 - **Tipo de herramienta:** Framework
-- **Página Web:** https://www.cocos.com
-- **Repositorio:** https://github.com/aseprite/aseprite/
+- **Página Web:** http://www.cocos2d.org/ https://www.cocos.com
+- **Repositorio:** https://github.com/los-cocos/cocos https://github.com/cocos2d/cocos2d-x
 - **Descripción:**
 Cocos2d es un framework de desarrollo que permite crear juegos y aplicaciones multiplataforma.
 - **Por qué lo incluimos:** Tanto la primera versión en lenguaje python como la segunda en obj-C fueron creadas por el Cordobés Ricardo Quesada, quien ademas trabajo varios años para Chukong Technologies, creadores de Cocos2D-x, un fork del proyecto original.
