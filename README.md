@@ -132,4 +132,4 @@ Ideamos esta herramienta para que los jóvenes puedan descubrir y aprender a pro
 ----
 ### Proyectos a agregar:
 
-_Links a herramientas que todavia no fueron agergadas a la lista_
+_Links a herramientas que todavia no fueron agregadas a la lista_
