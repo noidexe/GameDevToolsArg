@@ -129,6 +129,19 @@ Ideamos esta herramienta para que los jóvenes puedan descubrir y aprender a pro
 
 <img src="https://user-images.githubusercontent.com/526829/210159210-e5584908-8122-4928-a201-de5fe2e28286.png" width=300px>
 
+## Wollok Game
+- **Tipo de herramienta:** Framework. Herramienta Educativa.
+- **Página Web:** https://uqbar-project.github.io/website-wollok-ts/documentation/wollok_game/
+- **Repositorio:** https://github.com/uqbar-project/wollok-ts (es parte de un lenguaje de programación llamado Wollok)
+- **Descripción:**
+_"Wollok-Game es una biblioteca de Wollok que sirve para crear juegos. La idea que propone es tener una especie de “tablero” en donde se puedan ubicar los objetos de algún programa de Wollok y éste se mostrará automáticamente en la pantalla."_
+A su vez, _"Wollok es un lenguaje de programación y entorno de desarrollo integrado (IDE) para ser utilizado en el dictado de materias iniciales de programación orientada a objetos._"
+- **Por qué lo incluimos:** Es un proyecto open source desarrollado por [Fundación Uqbar](https://uqbar.org/), un grupo de docentes de distintas universidades nacionales de Argentina
+- **Capturas:**
+
+<img src="https://github.com/user-attachments/assets/95454148-6a40-4f88-bde2-def669181328" width=400px>
+<img src="https://github.com/user-attachments/assets/8d35f6c5-062a-4b54-a358-02c1d7ab80d6" width=400px>
+
 ----
 ### Proyectos a agregar:
 
