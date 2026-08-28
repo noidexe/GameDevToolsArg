@@ -142,6 +142,18 @@ A su vez, _"Wollok es un lenguaje de programación y entorno de desarrollo integ
 <img src="https://github.com/user-attachments/assets/95454148-6a40-4f88-bde2-def669181328" width=400px>
 <img src="https://github.com/user-attachments/assets/8d35f6c5-062a-4b54-a358-02c1d7ab80d6" width=400px>
 
+## Quaternius.com
+- **Tipo de herramienta:** Web con descarga de assets CC0 y tutoriales.
+- **Página Web:** https://quaternius.com
+- **Descripción:**
+Pagina web con assets 3D para descargar con licencia CC0. Incluye personajes riggeados, props y entornos. También hay una sección de tutoriales. 
+- **Por qué lo incluimos:** El creador es de Córdoba, Argentina
+- **Capturas:**
+
+<img src="https://quaternius.com/assets/images/thumbnails/universalanimationlibrary2.jpg" width=400px>
+<img src="https://quaternius.com/assets/images/fullres/allinonefile.jpg" width=400px>
+
+
 ----
 ### Proyectos a agregar:
 
